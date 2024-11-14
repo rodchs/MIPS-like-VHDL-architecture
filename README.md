@@ -2,11 +2,11 @@
 
     -- 4 BITS - OPCODE
 
+    -- 4 BITS - REG DEST
+
     -- 4 BITS - REG 1
 
     -- 4 BITS - REG 2
-    
-    -- 4 BITS - REG DEST
 
     -- 8 BITS - ENDEREÇO / IMEDIATO
 
